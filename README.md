@@ -3,6 +3,4 @@ robust Point of Sale system designed to simplify product and order management wh
 
 ## Demo
 ### vid
-
-](https://github.com/user-attachments/assets/294eb309-46a1-469d-93a2-88798185faae
-)
+https://github.com/AhmedSallam7810/pos/issues/1#issue-2471870295
